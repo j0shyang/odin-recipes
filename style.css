@@ -6,10 +6,10 @@
 
 body {
     background-color: rgb(253, 243, 229);
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .title {
     text-align: center;
-    font-family: 'Noto Sans', sans-serif;
     font-size: 10px;
 }

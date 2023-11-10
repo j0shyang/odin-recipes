@@ -13,3 +13,8 @@ body {
     text-align: center;
     font-size: 10px;
 }
+
+.home-image {
+    text-align: center;
+    display: inline-block;
+}
